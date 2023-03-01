@@ -50,3 +50,18 @@
     display: flex;
     justify-items: center;
 }
+.d-flex{
+    align-items: center;
+}
+.foot-txt{
+    align-self: center;
+}
+.card1{
+    align-content:left;
+}
+.card2{
+    align-content: center;
+}
+.card3{
+    align-content: right;
+}
